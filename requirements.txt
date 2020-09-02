@@ -1,2 +1,5 @@
 click
 pylint
+black
+pytest
+ipython
